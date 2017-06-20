@@ -1,0 +1,7 @@
+﻿  Register.cpp
+c:\users\toest\documents\github\exam2\exam2\register.cpp(35): warning C4018: '<': signed/unsigned mismatch
+c:\users\toest\documents\github\exam2\exam2\register.cpp(42): warning C4018: '<': signed/unsigned mismatch
+c:\users\toest\documents\github\exam2\exam2\register.cpp(73): warning C4018: '<': signed/unsigned mismatch
+c:\users\toest\documents\github\exam2\exam2\register.cpp(152): warning C4018: '<': signed/unsigned mismatch
+  Exam2.vcxproj -> C:\Users\toest\Documents\GitHub\Exam2\Debug\Exam2.exe
+  Exam2.vcxproj -> C:\Users\toest\Documents\GitHub\Exam2\Debug\Exam2.pdb (Full PDB)
